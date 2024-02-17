@@ -1,0 +1,10 @@
+C:\Users\chill\source\repos\DevilishCheatsInstaller\bin\Debug\DevilishCheatsInstaller.exe.config
+C:\Users\chill\source\repos\DevilishCheatsInstaller\bin\Debug\DevilishCheatsInstaller.exe
+C:\Users\chill\source\repos\DevilishCheatsInstaller\bin\Debug\DevilishCheatsInstaller.pdb
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.csproj.AssemblyReference.cache
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.Form1.resources
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.Properties.Resources.resources
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.csproj.GenerateResource.cache
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.exe
+C:\Users\chill\source\repos\DevilishCheatsInstaller\obj\Debug\DevilishCheatsInstaller.pdb
